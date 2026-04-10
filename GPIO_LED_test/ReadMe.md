@@ -20,3 +20,5 @@ The objective of this demo is to control an LED based on the state of a push but
     * **BSRR (Bit Set/Reset Register)**: Used for atomic bit manipulation to set or reset the output state of PA0.
     * **IDR (Input Data Register)**: Used to read the logical state of the input pin PA1.
 
+### Demo Link
+https://youtube.com/shorts/8bCdHb6Djq4?feature=share
