@@ -30,3 +30,4 @@
 .\objects\main.o: .\std_periph_driver\inc\stm32f10x_tim.h
 .\objects\main.o: .\std_periph_driver\inc\stm32f10x_usart.h
 .\objects\main.o: .\std_periph_driver\inc\stm32f10x_wwdg.h
+.\objects\main.o: C:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdio.h
